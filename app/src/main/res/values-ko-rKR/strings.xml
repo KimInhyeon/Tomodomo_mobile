@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--アプリ始まる時のテキスト。-->
+    <string name="a_desc">당신의 아이디어를 나눠요!</string><!--アイデア-->
+    <string name="b_desc">새로운 사람들을 만나세요!</string><!--自由な会話-->
+    <string name="c_desc">더욱더 흥미로운 취미를 찾아!</string><!--コネクト-->
+    <string name="d_desc">자유를 찾아 그곳으로 떠나요!</string><!--趣味-->
+    <string name="e_desc">친구들과 함께 해보세요!</string>
+    <string name="title_mypage">마이페이지</string>
+    <string name="tvHeading">아이디어</string>
+    <string name="update_user_data">정보수정</string>
+    <string name="user_nickname">유저의닉네임</string>
+    <string name="mypage_introduce_certification1">기업메일로 인증하여 정회원이 되시면</string>
+    <string name="mypage_introduce_certification2">모든 기능들을 사용하실 수 있습니다.</string>
+    <string name="mypage_introduce_certification3">トピックにポストを書く</string>
+    <string name="mypage_introduce_certification4">企業のレビューを読む</string>
+    <string name="mypage_introduce_certification5">企業のレビューを書く</string>
+    <string name="mypage_introduce_certification6">給料のランクに給料登録や確認。</string>
+    <string name="move_certification_btn1">正会員認証を始める</string>
+    <string name="mypage_button_group1">アカウントの情報更新</string>
+    <string name="move_annual_income_calculator">私の年齢ランキング</string>
+    <string name="move_certification_btn2">企業メールを認証する</string>
+    <string name="mypage_button_group2">招待、Webログイン</string>
+    <string name="move_invite">招待する</string>
+    <string name="move_web_login">Webブラウザーログイン</string>
+    <string name="certification_explain_postread">トピックのポストを読む</string>
+    <string name="certification_explain_postwrite">トピックにポストを書く</string>
+    <string name="certification_explain_componyreviewread">企業のレビューを読む</string>
+    <string name="certification_explain_salary_rank_useable">給料のランク確認</string>
+    <string name="certification_explain_componyreview_write">企業のレビューを書く</string>
+    <string name="certification_title">정회원인증</string>
+</resources>
